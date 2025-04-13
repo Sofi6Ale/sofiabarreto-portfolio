@@ -1,7 +1,7 @@
 # Sofía Alejandra Barreto Atalaya – Portfolio 👩‍💻🎻🐉
 
-Hi! I'm Sofía, a Computer Systems Engineering student from Lima, Peru 🇵🇪, specializing in **Computer Vision**.  
-I'm passionate about applying technology to creative and real-world challenges.  
+Hi! I'm Sofía, a Computer Systems Engineering student at the **Virtual University of the State of Guanajuato (UVEG)**, currently based in Lima, Peru 🇵🇪.  
+I'm specializing in **Computer Vision**, and I'm passionate about applying technology to creative and real-world challenges.  
 My background in classical music and martial arts has shaped my discipline, focus, and adaptability.
 
 ## 🎯 Areas of Interest
