@@ -11,3 +11,4 @@ Here I will upload my technical certifications as I complete them.
 - [SoloLearn – Java](./sololearn-java.png)
 - [UVEG – Basic Programming](./uveg-basic-programming.pdf)
 - [Full Sail University – Emerging Technology Virtual Experience](./FullSail.pdf)
+- [Certificado Zona Tres](./certificates/zona3-ia-descentralizada.jpeg)
