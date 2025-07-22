@@ -44,8 +44,8 @@ I manage and produce content across multiple digital platforms under the brand *
 🎨 Main project: [Arte del Ritmo – Artistic Portfolio](https://beacons.ai/artedelritmo)  
 I created and manage this multi-platform brand, producing and publishing all visual, audio, and written content.
 
-📝 Score sample: [Original composition on MuseScore](https://musescore.com/user/1630996/scores/6703432/s/0eS_ch)  
-Example of my digital music notation and layout work.
+📝 Score sample: [Arrangement of “Always with Me, Always with You” on MuseScore](https://musescore.com/user/1630996/scores/6703432/s/0eS_ch)  
+Example of my work in music transcription and digital notation layout.
 
 ## 📌 What I'm Building Here
 This portfolio will grow over time. I will upload:
