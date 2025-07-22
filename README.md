@@ -27,7 +27,25 @@ My background in classical music and martial arts has shaped my discipline, focu
 ## 🗣️ Languages
 - Spanish: Native  
 - English: Advanced  
-- German: Intermediate  
+- German: Intermediate
+
+## 🎬 Digital Production & Media Projects
+
+I manage and produce content across multiple digital platforms under the brand **Arte del Ritmo**:
+
+- Website creation with **Google Sites**
+- Centralized social media profile via **Beacons.ai**
+- Audio production using **Logic Pro**, **GarageBand**, **Focusrite Control**, and **Adobe Audition**
+- Video editing with **Final Cut Pro** and **Adobe Premiere Pro**
+- Digital music notation using **MuseScore** and **Finale**
+- Content creation and publishing for **YouTube**, **Instagram**, **Facebook**, and **TikTok**
+- Branding, identity design, and visual storytelling for independent music projects
+
+🎨 Main project: [Arte del Ritmo – Artistic Portfolio](https://beacons.ai/artedelritmo)  
+I created and manage this multi-platform brand, producing and publishing all visual, audio, and written content.
+
+📝 Score sample: [Original composition on MuseScore](https://musescore.com/user/1630996/scores/6703432/s/0eS_ch)  
+Example of my digital music notation and layout work.
 
 ## 📌 What I'm Building Here
 This portfolio will grow over time. I will upload:
