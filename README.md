@@ -15,7 +15,8 @@ My background in classical music and martial arts has shaped my discipline, focu
 - Google Cloud Computing Foundations – ACADEMY  
 - Oracle Next Education F2 T5 – Java, Backend & MySQL  
 - SoloLearn Certificates (Java, HTML)  
-- Basic Programming – UVEG  
+- Basic Programming – UVEG
+- Participación en Emerging Technology Virtual Experience – Full Sail University
 
 ## 🎻 Extra Skills
 - Violinist with international experience in chamber music, orchestras, and solo performances  
