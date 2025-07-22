@@ -10,4 +10,4 @@ Here I will upload my technical certifications as I complete them.
 - [SoloLearn – HTML](./sololearn-html.png)
 - [SoloLearn – Java](./sololearn-java.png)
 - [UVEG – Basic Programming](./uveg-basic-programming.pdf)
-- [Full Sail University – Emerging Technology Virtual Experience](./fullsail-emerging-tech.pdf)
+- [Full Sail University – Emerging Technology Virtual Experience](./FullSail.pdf)
