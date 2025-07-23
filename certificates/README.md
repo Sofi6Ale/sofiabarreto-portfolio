@@ -12,4 +12,4 @@ Here I will upload my technical certifications as I complete them.
 - [UVEG – Basic Programming](./uveg-basic-programming.pdf)
 - [Full Sail University – Emerging Technology Virtual Experience](./FullSail.pdf)
 - [Certificado Zona Tres](./zona3-ia-descentralizada.jpeg)
-- [Descargar presentación de estadía](./estadia_presentacion.pdf)
+- Presentación de estadía](./estadia_presentacion.pdf)
